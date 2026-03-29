@@ -1,0 +1,13 @@
+aaabc aaabc
+bcba bcbda
+bcbb aabcc
+bcbc aaaca
+bcbd daada
+bcca aaaca
+bccb ddaaa
+bccc aaaab
+bccd aaaac
+bcda aaaad
+bcdb abcab
+bcdc abcac
+bcdd aaaaa
